@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kyland Holmes (@KyKoPho).
+- 👀 I’m interested in distributed systems, complexity, simplicity, team building, surgical software updates, golang, c#, TypeScript, sorting algorithms, and terraform.
+- 🌱 I’m currently learning golang.
+- 💞️ I’m looking to collaborate on maybe gitea? 
+- 📫 How to reach me kyland@kylandholmes.com
